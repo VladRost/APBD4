@@ -16,6 +16,6 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 app.UseHttpsRedirection();
-app.RegisterEndpointsForAnimals();
+app.RegisterEndpointsForAnimals(1);
 
 app.Run();
