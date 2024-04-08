@@ -9,6 +9,6 @@ public static class Configuration
             
             return TypedResults.Ok(service.GetAnimals());
         });
-        app.MapPost("/api/v1/animals/{id:int}", () => { return TypedResults.Ok(); });
+        app.MapPost("/api/v1/animals/{id:int}", (IAnimalService service) => { return TypedResults.Ok(service.GetAnimalById(1)); });
     }
 }

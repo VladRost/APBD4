@@ -31,3 +31,4 @@ C:\Users\s28288\RiderProjects\Solution1\WebApplication1\obj\Debug\net8.0\refint\
 C:\Users\s28288\RiderProjects\Solution1\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
 C:\Users\s28288\RiderProjects\Solution1\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
 C:\Users\s28288\RiderProjects\Solution1\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+C:\Users\s28288\RiderProjects\Solution1\WebApplication1\obj\Debug\net8.0\WebApplication1.sourcelink.json
